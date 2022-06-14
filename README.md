@@ -11,6 +11,6 @@
 
 
 
-# Lavet af tubidubs#2495 
+# Ikke lavet af mig 
 
 ![unknown](https://user-images.githubusercontent.com/70888884/173614005-c0679f2e-55eb-4f60-821d-9ae1e4f4fedd.png)
