@@ -2,6 +2,10 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 ui_page "nui/ui.html"
 
+author 'kaz_tuning - tak til tubidubs#2495 '
+description 'kaz_tuning - tak til tubidubs#2495'
+version '2.0'
+
 files {
 	"nui/ui.html",
     "nui/background.jpg",
